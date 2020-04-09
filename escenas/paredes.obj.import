@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/paredes.obj-731e547003f1b49ae384f0b5531d896c.mesh"
+
+[deps]
+
+files=[ "res://.import/paredes.obj-731e547003f1b49ae384f0b5531d896c.mesh" ]
+
+source_file="res://escenas/paredes.obj"
+dest_files=[ "res://.import/paredes.obj-731e547003f1b49ae384f0b5531d896c.mesh", "res://.import/paredes.obj-731e547003f1b49ae384f0b5531d896c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

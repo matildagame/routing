@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/puerta.obj-c324d5707e680ddffe9ec470454d8636.mesh"
+
+[deps]
+
+files=[ "res://.import/puerta.obj-c324d5707e680ddffe9ec470454d8636.mesh" ]
+
+source_file="res://escenas/puerta.obj"
+dest_files=[ "res://.import/puerta.obj-c324d5707e680ddffe9ec470454d8636.mesh", "res://.import/puerta.obj-c324d5707e680ddffe9ec470454d8636.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
